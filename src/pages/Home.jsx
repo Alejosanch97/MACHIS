@@ -567,7 +567,7 @@ export const Home = () => {
 				{/* ─── COLLABS ─── */}
 				<div className="mc-section-title mc-rise" style={{ "--d": ".85s" }}>
 					<h2>ÚLTIMAS COLLABS</h2>
-					<span>tócalas ✦</span>
+					<span>click it ✦</span>
 				</div>
 				<div className="mc-collabs">
 					{COLLABS.map((c, i) => {
